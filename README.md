@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<h3 align="left">Favorite Tech:</h3>
-<table>
+<h3 align="center">Favorite Tech:</h3>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#pulidovpe">
@@ -129,18 +129,15 @@
     </td>
   </tr>
 </table>
-
-<p align="left"> 
 <br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulidovpe&show_icons=true&locale=en&layout=compact" alt="pulidovpe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pulidovpe&show_icons=true&locale=en" alt="pulidovpe" /></p>
-
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pulidovpe&show_icons=true&locale=en" alt="pulidovpe" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulidovpe&show_icons=true&locale=en&layout=compact" alt="pulidovpe" /></p>
 <br />
+<p align="center">
 <a href="https://twitter.com/pulidovpe" target="blank">
     <img src="https://img.shields.io/twitter/follow/pulidovpe?logo=twitter&style=for-the-badge" alt="pulidovpe" />
 </a>
+</p>
 <!--
 <p align="left">  </p>
 

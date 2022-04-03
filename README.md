@@ -1,5 +1,5 @@
 <h2 align="center">Welcome, I'm Pablo Pulido</h1>
-<h3 align="center">I work as a DevOps Engineer</h3>
+<!-- <h3 align="center">I work as a DevOps Engineer</h3> -->
 <br />
 
 <p align="center">
@@ -9,10 +9,28 @@
   <a href="https://github.com/MacroPower?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
   </a>
+  <!--<a href="https://twitter.com/pulidovpe" >
+    <img src="https://img.shields.io/twitter/follow/pulidovpe.svg?style=social" /> 
+  </a>-->
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
+
+
+### :space_invader: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as an Operations Engineer at [Uptime Analytics](https://uptimeanalytics.com/nosotros/) (Colombia) \
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently learning **Kubernetes**.\
+&nbsp;&nbsp;&nbsp;:computer: &nbsp;You can find me on:
+
+
+  <a href="mailto:pablo.e.pulido@gmail.com?subject=Hi%20Pablo%20Pulido"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pulidovpe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  ![@pulidovpe twitter](https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee)
+
+<br />
 
 <h3 align="center">Favorite Tech:</h3>
 <table align="center">
@@ -130,16 +148,18 @@
   </tr>
 </table>
 <br />
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pulidovpe&show_icons=true&locale=en" alt="pulidovpe" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulidovpe&show_icons=true&locale=en&layout=compact" alt="pulidovpe" /></p>
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+    <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pulidovpe&show_icons=true&locale=en" alt="pulidovpe" /></p>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulidovpe&show_icons=true&locale=en&layout=compact" alt="pulidovpe" /></p>
+</details>
 <br />
-<p align="center">
-<a href="https://twitter.com/pulidovpe" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pulidovpe?logo=twitter&style=for-the-badge" alt="pulidovpe" />
-</a>
-</p>
+
 <!--
-<p align="left">  </p>
+
+<p align="center"> </p>
+<p align="left"> </p>
 
 - :office: &nbsp;I'm currently working at **[Uptime Analytics](https://uptimeanalytics.com/nosotros/)**
 - 🌱 I’m currently learning **Kubernetes**

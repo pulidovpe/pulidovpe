@@ -25,11 +25,11 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently learning **Kubernetes**.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;You can find me on:
 
-
+  
+  ![@pulidovpe twitter](https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee)&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pablo.e.pulido@gmail.com?subject=Hi%20Pablo%20Pulido"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pulidovpe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  ![@pulidovpe twitter](https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee)
-
+  <a href="https://www.linkedin.com/in/pulidovpe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <br />
 
 <h3 align="center">Favorite Tech:</h3>
@@ -60,25 +60,25 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe">
+      <a href="/../../../../pulidovpe/workflow-practice/blob/master/">
         <img src="./img/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe" >
+      <a href="/../../../../pulidovpe/python-testing/blob/master/" >
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe">
+      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe">
+      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/">
         <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
       </a>
       <br>Mysql
@@ -98,7 +98,7 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe" >
+      <a href="/../../../../pulidovpe/ansible-practice/blob/master/" >
         <img src="./img/ansible.svg" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
@@ -110,19 +110,19 @@
       <br>Jenkins
     </td>
     <td align="center"  width="96">
-      <a href="#pulidovpe">
+      <a href="/../../../../pulidovpe/terraform-practice/blob/master/">
         <img src="./img/terraform.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe">
+      <a href="/../../../../pulidovpe/work-flow/blob/master/">
         <img src="./img/gitlab.svg" width="48" height="48" alt="Gitlab" />
       </a>
       <br>Gitlab
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe" >
+      <a href="/../../../../pulidovpe/docker-php-mysql/blob/master/" >
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker

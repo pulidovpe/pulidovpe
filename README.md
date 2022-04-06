@@ -60,25 +60,25 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/workflow-practice/blob/master/">
+      <a href="/../../../../pulidovpe/workflow-practice/blob/master/README.md">
         <img src="./img/git.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/python-testing/blob/master/" >
+      <a href="/../../../../pulidovpe/python_testing/blob/master/README.md" >
         <img src="./img/python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/">
+      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/README.md">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/">
+      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/README.md">
         <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
       </a>
       <br>Mysql
@@ -98,7 +98,7 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/ansible-practice/blob/master/" >
+      <a href="/../../../../pulidovpe/ansible-practice/blob/master/README.md" >
         <img src="./img/ansible.svg" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
@@ -110,19 +110,19 @@
       <br>Jenkins
     </td>
     <td align="center"  width="96">
-      <a href="/../../../../pulidovpe/terraform-practice/blob/master/">
+      <a href="/../../../../pulidovpe/terraform-practice/blob/master/README.md">
         <img src="./img/terraform.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/work-flow/blob/master/">
+      <a href="/../../../../pulidovpe/work-flow/blob/master/README.md">
         <img src="./img/gitlab.svg" width="48" height="48" alt="Gitlab" />
       </a>
       <br>Gitlab
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/docker-php-mysql/blob/master/" >
+      <a href="/../../../../pulidovpe/docker-php-mysql/blob/master/README.md" >
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker

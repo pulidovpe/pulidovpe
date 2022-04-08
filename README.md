@@ -6,8 +6,8 @@
   <a href="https://github.com/pulidovpe/pulidovpe">
     <img src="https://komarev.com/ghpvc/?username=pulidovpe" alt="page views" />
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  <a href="https://github.com/pulidovpe?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pulidovpe?color=green&logo=github">
   </a>
   <!--<a href="https://twitter.com/pulidovpe" >
     <img src="https://img.shields.io/twitter/follow/pulidovpe.svg?style=social" /> 

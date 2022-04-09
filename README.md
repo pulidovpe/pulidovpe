@@ -128,7 +128,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#pulidovpe">
+      <a href="/../../../../pulidovpe/kubernetes-practice/blob/master/README.md" >
         <img src="./img/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes

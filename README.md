@@ -98,7 +98,7 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/ansible-practice/blob/master/README.md" >
+      <a href="/../../../../pulidovpe/ansible-practice/blob/main/README.md" >
         <img src="./img/ansible.svg" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
@@ -128,7 +128,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="/../../../../pulidovpe/kubernetes-practice/blob/master/README.md" >
+      <a href="/../../../../pulidovpe/kubernetes-practice/blob/main/README.md" >
         <img src="./img/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes

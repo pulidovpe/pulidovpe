@@ -20,7 +20,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as an Operations Engineer at [Uptime Analytics](https://uptimeanalytics.com/nosotros/) (Colombia) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a DevOps Engineer Ssr at [Nubiral](https://nubiral.com/nosotros/) (Argentina) \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently learning **Kubernetes**.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;You can find me on:

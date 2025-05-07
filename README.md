@@ -35,62 +35,6 @@
 <h3 align="center">Favorite Tech:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#pulidovpe">
-        <img src="./img/devops.svg" width="48" height="48" alt="DevOps" />
-      </a>
-      <br>DevOps
-    </td>
-    <td align="center" width="96">
-      <a href="#pulidovpe">
-        <img src="./img/vagrant.svg" width="48" height="48" alt="Vagrant" />
-      </a>
-      <br>Vagrant
-    </td>
-    <td align="center" width="96">
-      <a href="#pulidovpe">
-        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#pulidovpe">
-        <img src="./img/bash.svg" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="/../../../../pulidovpe/workflow-practice/blob/master/README.md">
-        <img src="./img/git.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="/../../../../pulidovpe/python_testing/blob/master/README.md" >
-        <img src="./img/python.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/README.md">
-        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/README.md">
-        <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
-      </a>
-      <br>Mysql
-    </td>
-    <td align="center"  width="96">
-      <a href="#pulidovpe">
-        <img src="./img/postgres.svg" width="48" height="48" alt="Postgres" />
-      </a>
-      <br>Postgres
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#pulidovpe" >
         <img src="./img/aws.svg" width="48" height="48" alt="AWS" />
@@ -144,6 +88,62 @@
         <img src="./img/prometheus.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#pulidovpe">
+        <img src="./img/devops.svg" width="48" height="48" alt="DevOps" />
+      </a>
+      <br>DevOps
+    </td>
+    <td align="center" width="96">
+      <a href="#pulidovpe">
+        <img src="./img/vagrant.svg" width="48" height="48" alt="Vagrant" />
+      </a>
+      <br>Vagrant
+    </td>
+    <td align="center" width="96">
+      <a href="#pulidovpe">
+        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#pulidovpe">
+        <img src="./img/bash.svg" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="/../../../../pulidovpe/workflow-practice/blob/master/README.md">
+        <img src="./img/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="/../../../../pulidovpe/python_testing/blob/master/README.md" >
+        <img src="./img/python.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/README.md">
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="/../../../../pulidovpe/api-node-mysql/blob/master/README.md">
+        <img src="./img/mysql.svg" width="48" height="48" alt="Mysql" />
+      </a>
+      <br>Mysql
+    </td>
+    <td align="center"  width="96">
+      <a href="#pulidovpe">
+        <img src="./img/postgres.svg" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
     </td>
   </tr>
 </table>

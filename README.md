@@ -20,9 +20,9 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a DevOps Engineer Ssr at [Nubiral](https://nubiral.com/nosotros/) (Argentina) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently Open to work \
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently practicing **Github Actions**.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently practicing **Github Actions** and **Kubernetes**.\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;You can find me on:
 
   

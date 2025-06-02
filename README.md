@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;You can find me on:
 
   
-  ![@pulidovpe twitter](https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee)&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/pulidovpe?t=Xg1gvfXeoViRciA0RFlNPg&s=09"><img src="https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee"/>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pulidovpe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
   <a href="mailto:pulidovpe.dev@gmail.com?subject=Hi%20Pablo%20Pulido"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>

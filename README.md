@@ -9,9 +9,9 @@
   <a href="https://github.com/pulidovpe?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pulidovpe?color=green&logo=github">
   </a>
-  <!--<a href="https://twitter.com/pulidovpe" >
+  <a href="https://x.com/pulidovpe" >
     <img src="https://img.shields.io/twitter/follow/pulidovpe.svg?style=social" /> 
-  </a>-->
+  </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>

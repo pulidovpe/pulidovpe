@@ -24,13 +24,11 @@
 &nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;🌿 &nbsp;Currently practicing **Azure DevOps** and **Kubernetes**.\
 &nbsp;&nbsp;&nbsp;💻 &nbsp;You can find me on:
-
   
-  <a href="https://x.com/pulidovpe?t=Xg1gvfXeoViRciA0RFlNPg&s=09"><img src="https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee"/>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pulidovpe/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <a href="mailto:pulidovpe.dev@gmail.com?subject=Hi%20Pablo%20Pulido"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br />
+[![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pulidovpe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulidovpe/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulidovpe.dev@gmail.com)
+
 
 <h3 align="center">Favorite Tech:</h3>
 <table align="center">
@@ -155,19 +153,3 @@
     <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulidovpe&show_icons=true&locale=en&layout=compact" alt="pulidovpe" /></p>
 </details>
 <br />
-
-<!--
-
-<p align="center"> </p>
-<p align="left"> </p>
-
-- :office: &nbsp;I'm currently working at **[Uptime Analytics](https://uptimeanalytics.com/nosotros/)**
-- 🌱 I’m currently learning **Kubernetes**
-- :computer: &nbsp;Connect with me on:
-  - <a href="https://twitter.com/pulidovpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulidovpe" height="30" width="40" /></a> <a href="https://linkedin.com/in/pulidovpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulidovpe" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/2208414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2208414" height="30" width="40" /></a> <a href="https://discord.gg/pulidovpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pulidovpe" height="30" width="40" /></a>
-
-</p>
-<br />
--->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulidovpe" alt="pulidovpe" /></a> </p> -->

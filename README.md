@@ -149,7 +149,17 @@
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-    <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pulidovpe&show_icons=true&locale=en" alt="pulidovpe" /></p>
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pulidovpe&show_icons=true&locale=en&layout=compact" alt="pulidovpe" /></p>
+  <p align="center">
+    <img 
+      src="https://github-readme-stats-salesp07.vercel.app/api?username=pulidovpe&show_icons=true&theme=tokyonight" 
+      alt="pulidovpe stats" 
+    />
+  </p>
+  <p align="center">
+    <img 
+      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=pulidovpe&layout=compact&theme=tokyonight" 
+      alt="pulidovpe languages" 
+    />
+  </p>
 </details>
 <br />

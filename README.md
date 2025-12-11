@@ -20,10 +20,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently Open to work \
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently practicing **Github Actions** and **Kubernetes**.\
-&nbsp;&nbsp;&nbsp;:computer: &nbsp;You can find me on:
+&nbsp;&nbsp;&nbsp;🛠️ &nbsp; Currently Open to work \
+&nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;🌿 &nbsp;Currently practicing **Azure DevOps** and **Kubernetes**.\
+&nbsp;&nbsp;&nbsp;💻 &nbsp;You can find me on:
 
   
   <a href="https://x.com/pulidovpe?t=Xg1gvfXeoViRciA0RFlNPg&s=09"><img src="https://img.shields.io/twitter/follow/pulidovpe?style=for-the-badge&color=00acee"/>&nbsp;&nbsp;&nbsp;

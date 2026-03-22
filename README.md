@@ -103,6 +103,7 @@
     </td>
     <td align="center" width="96">
       <a href="#pulidovpe">
+        <a href="/../../../../pulidovpe/hardening-lab/blob/master/README.md">
         <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux

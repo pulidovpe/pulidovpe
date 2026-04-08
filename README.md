@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;🛠️ &nbsp; Currently Open to work \
 &nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;🌿 &nbsp;Currently practicing **Vibe Coding**.\
+&nbsp;&nbsp;&nbsp;🌿 &nbsp;Currently practicing **Hardening Linux**.\
 &nbsp;&nbsp;&nbsp;💻 &nbsp;You can find me on:
   
 [![Twitter](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pulidovpe)
